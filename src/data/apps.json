@@ -1,0 +1,156 @@
+{
+  "default": [
+    {
+      "appName": "Placeholder",
+      "desc": "Placeholder",
+      "icon": "",
+      "url": "https://example.com",
+      "disabled": false
+    }
+  ],
+  "apps": [
+    {
+      "appName": "Placeholder",
+      "desc": "Placeholder",
+      "icon": "",
+      "url": "https://example.com/search",
+      "disabled": false
+    },
+    {
+      "appName": "Placeholder",
+      "desc": "Placeholder",
+      "icon": "",
+      "url": "https://example.com/video",
+      "disabled": false
+    },
+    {
+      "appName": "Placeholder",
+      "desc": "Placeholder",
+      "icon": "",
+      "url": "https://example.com/chat",
+      "disabled": false
+    }
+  ],
+  "games": {
+    "Popular": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/popular",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Action": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/action",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Sports": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/sports",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Platformer": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/platformer",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Adventure": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/adventure",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Running": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/running",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Racing": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/racing",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Puzzle": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/puzzle",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Idle/Clicker": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/idle",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Sandbox/Creative": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/sandbox",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Horror/Survival": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/horror",
+        "disabled": false,
+        "local": false
+      }
+    ],
+    "Multiplayer": [
+      {
+        "appName": "Placeholder",
+        "desc": "Placeholder",
+        "icon": "",
+        "url": "https://example.com/multiplayer",
+        "disabled": false,
+        "local": false
+      }
+    ]
+  }
+}
